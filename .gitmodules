@@ -1,0 +1,3 @@
+[submodule "keycloakify"]
+	path = keycloakify
+	url = https://github.com/keycloakify/keycloakify.git
